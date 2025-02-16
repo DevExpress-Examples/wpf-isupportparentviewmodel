@@ -53,7 +53,7 @@ protected override void OnParentViewModelChanged(object parentViewModel) {
 
 - link
 - link
-- ...
+- link
 <!-- feedback -->
 ## Does this example address your development requirements/objectives?
 
