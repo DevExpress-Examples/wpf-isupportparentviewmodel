@@ -5,10 +5,7 @@
     <TargetFramework>net8.0-windows</TargetFramework>
     <Nullable>enable</Nullable>
     <UseWPF>true</UseWPF>
-    <RootNamespace>
-    </RootNamespace>
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
-    <CopyLocalLockFileAssemblies>false</CopyLocalLockFileAssemblies>
     <EnableDefaultApplicationDefinition>false</EnableDefaultApplicationDefinition>
   </PropertyGroup>
   <ItemGroup>
