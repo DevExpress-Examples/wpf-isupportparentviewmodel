@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
-    <TargetFramework>net6.0-windows</TargetFramework>
+    <TargetFramework>net8.0-windows</TargetFramework>
     <Nullable>enable</Nullable>
     <UseWPF>true</UseWPF>
     <RootNamespace>SupportParentViewModel</RootNamespace>
@@ -10,7 +10,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="DevExpress.Wpf.Core" Version="22.2.3" />
+    <PackageReference Include="DevExpress.Wpf.Core" Version="24.2.3" />
   </ItemGroup>
 
 </Project>
