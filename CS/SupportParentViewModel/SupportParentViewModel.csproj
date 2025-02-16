@@ -36,31 +36,40 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="DevExpress.Data.Desktop.v22.2, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
-      <HintPath>..\packages\DevExpress.Data.Desktop.22.2.3\lib\net452\DevExpress.Data.Desktop.v22.2.dll</HintPath>
+      <HintPath>bin\Debug\DevExpress.Data.Desktop.v22.2.dll</HintPath>
+      <SpecificVersion>False</SpecificVersion>
     </Reference>
     <Reference Include="DevExpress.Data.v22.2, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
-      <HintPath>..\packages\DevExpress.Data.22.2.3\lib\net452\DevExpress.Data.v22.2.dll</HintPath>
+      <HintPath>bin\Debug\DevExpress.Data.v22.2.dll</HintPath>
+      <SpecificVersion>False</SpecificVersion>
     </Reference>
     <Reference Include="DevExpress.Drawing.v22.2, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
-      <HintPath>..\packages\DevExpress.Drawing.22.2.3\lib\net452\DevExpress.Drawing.v22.2.dll</HintPath>
+      <HintPath>bin\Debug\DevExpress.Drawing.v22.2.dll</HintPath>
+      <SpecificVersion>False</SpecificVersion>
     </Reference>
     <Reference Include="DevExpress.Mvvm.v22.2, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
-      <HintPath>..\packages\DevExpress.Mvvm.22.2.3\lib\net452\DevExpress.Mvvm.v22.2.dll</HintPath>
+      <HintPath>bin\Debug\DevExpress.Mvvm.v22.2.dll</HintPath>
+      <SpecificVersion>False</SpecificVersion>
     </Reference>
     <Reference Include="DevExpress.Pdf.v22.2.Core, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
-      <HintPath>..\packages\DevExpress.Pdf.Core.22.2.3\lib\net452\DevExpress.Pdf.v22.2.Core.dll</HintPath>
+      <HintPath>bin\Debug\DevExpress.Pdf.v22.2.Core.dll</HintPath>
+      <SpecificVersion>False</SpecificVersion>
     </Reference>
     <Reference Include="DevExpress.Pdf.v22.2.Drawing, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
-      <HintPath>..\packages\DevExpress.Pdf.Drawing.22.2.3\lib\net452\DevExpress.Pdf.v22.2.Drawing.dll</HintPath>
+      <HintPath>bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll</HintPath>
+      <SpecificVersion>False</SpecificVersion>
     </Reference>
     <Reference Include="DevExpress.Printing.v22.2.Core, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
-      <HintPath>..\packages\DevExpress.Printing.Core.22.2.3\lib\net452\DevExpress.Printing.v22.2.Core.dll</HintPath>
+      <HintPath>bin\Debug\DevExpress.Printing.v22.2.Core.dll</HintPath>
+      <SpecificVersion>False</SpecificVersion>
     </Reference>
     <Reference Include="DevExpress.Xpf.Core.v22.2, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
-      <HintPath>..\packages\DevExpress.Wpf.Core.22.2.3\lib\net452\DevExpress.Xpf.Core.v22.2.dll</HintPath>
+      <HintPath>bin\Debug\DevExpress.Xpf.Core.v22.2.dll</HintPath>
+      <SpecificVersion>False</SpecificVersion>
     </Reference>
     <Reference Include="DevExpress.Xpf.Themes.Office2019Colorful.v22.2, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
-      <HintPath>..\packages\DevExpress.Wpf.Themes.Office2019Colorful.22.2.3\lib\net452\DevExpress.Xpf.Themes.Office2019Colorful.v22.2.dll</HintPath>
+      <HintPath>bin\Debug\DevExpress.Xpf.Themes.Office2019Colorful.v22.2.dll</HintPath>
+      <SpecificVersion>False</SpecificVersion>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
