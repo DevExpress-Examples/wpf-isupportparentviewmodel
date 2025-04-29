@@ -83,7 +83,7 @@ public class CustomChildViewModel : ISupportParentViewModel, ISupportServices, I
 
 ## Files to Review
 
-- [MainView.xaml (CS)](.CS/SupportParentViewModel/Views/MainView.xaml) / [MainView.xaml (VB)](.VB/SupportParentViewModel/Views/MainView.xaml)
+- [MainView.xaml (CS)](./CS/SupportParentViewModel/Views/MainView.xaml) / [MainView.xaml (VB)](./VB/SupportParentViewModel/Views/MainView.xaml)
 - [ChildViewModel.cs](./CS/SupportParentViewModel/ViewModels/ChildViewModel.cs) / [ChildViewModel.vb](./VB/SupportParentViewModel/ViewModels/ChildViewModel.vb)
 - [CustomChildViewModel.cs](./CS/SupportParentViewModel/ViewModels/CustomChildViewModel.cs) / [CustomChildViewModel.vb](./VB/SupportParentViewModel/ViewModels/CustomChildViewModel.vb)
 
