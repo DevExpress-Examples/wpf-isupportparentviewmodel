@@ -7,7 +7,6 @@
     <UseWPF>true</UseWPF>
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
     <EnableDefaultApplicationDefinition>false</EnableDefaultApplicationDefinition>
-    <RootNamespace />
   </PropertyGroup>
   <ItemGroup>
     <ApplicationDefinition Include="App.xaml" />
