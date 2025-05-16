@@ -1,7 +1,7 @@
 Imports System.Windows.Input
 Imports DevExpress.Mvvm
 
-Namespace ViewModels
+Namespace SupportParentViewModel.NET.ViewModels
 
     Public Class MainViewModel
         Inherits ViewModelBase

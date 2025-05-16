@@ -3,7 +3,7 @@ Imports System.Runtime.CompilerServices
 Imports System.Windows.Input
 Imports DevExpress.Mvvm
 
-Namespace ViewModels
+Namespace SupportParentViewModel.NET.ViewModels
 
     Public Class CustomChildViewModel
         Implements ISupportParentViewModel, ISupportServices, INotifyPropertyChanged
