@@ -1,11 +1,11 @@
 Imports System.Windows.Controls
 
-Namespace SupportParentViewModel.Views
+Namespace SupportParentViewModel.NET.Views
 
     ''' <summary>
     ''' Interaction logic for ChildView.xaml
     ''' </summary>
-    Public Partial Class ChildView
+    Partial Public Class ChildView
         Inherits UserControl
 
         Public Sub New()

@@ -1,11 +1,11 @@
 Imports System.Windows.Controls
 
-Namespace SupportParentViewModel.Views
+Namespace SupportParentViewModel.NET.Views
 
     ''' <summary>
     ''' Interaction logic for MainView.xaml
     ''' </summary>
-    Public Partial Class MainView
+    Partial Public Class MainView
         Inherits UserControl
 
         Public Sub New()

@@ -1,7 +1,7 @@
 Imports DevExpress.Mvvm
 Imports System.Windows.Input
 
-Namespace SupportParentViewModel.ViewModels
+Namespace ViewModels
 
     Friend Class ChildViewModel
         Inherits ViewModelBase
